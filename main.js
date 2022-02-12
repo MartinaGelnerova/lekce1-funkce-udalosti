@@ -22,7 +22,6 @@ function upozorni() {
   alert(upozorneni);
   console.log(upozorneni);
   cvterecek.textContent = upozorneni;
-  cvterecek.style.overflow = 'hidden';
   cvterecek.style.width = '400px'
 }
 
