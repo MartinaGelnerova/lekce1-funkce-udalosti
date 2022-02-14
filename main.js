@@ -30,6 +30,8 @@ function colorChange() {
   cvterecek.style.backgroundColor = 'green';
 }
 
+vysledek.style.display = 'none';
+
 function showVysledek() {
   vysledek.style.display = 'inline';
 }
